@@ -1,8 +1,5 @@
-### Assalamu Alaikum 👋 I'm [Hasnain Adam!](mailto:hasnainadam7@gmail.com)
+### Assalamu Alaikum 👋 I'm [Hasnain Adam](mailto:hasnainadam7@gmail.com)
 
-<br/>
-
-<!-- Socials -->
 <a href="https://instagram.com/hasnainadam7">
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -16,30 +13,44 @@
 <br/>
 <br/>
 
-Hi, I'm **Hasnain**, a passionate **Flutter Developer** with a love for crafting pixel-perfect UIs and clean architecture using **GetX** and **feature-based folder structures**.  
-From **FlutterFlow** to **Supabase** to **real-time apps with Agora**, I’m building scalable apps that just work 🚀
+Hi, I'm **Hasnain**, a passionate **Flutter Developer** who loves building real-world apps with clean architecture, **GetX**, and **feature-based folder structures**.  
+From UI to backend, I bring life to apps using tools like **FlutterFlow**, **Firebase**, **Supabase**, **Node.js**, and even **real-time magic with Agora and Sockets** 🔥
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" />
 
 ---
 
-### 💻 What I'm Up To:
+### 💻 What I’m Good At:
 
-- 🚀 Building full-stack apps with **Flutter + Supabase + Node.js**
-- 💸 Working on **QuickQuickPay** – a wallet app with Stripe payouts
-- 🏋️‍♂️ Released a **Gym Trainer Booking App**
-- 📅 Shipped **Monarch** – A doctor appointment + feedback + calendar app
-- 🔒 Crafting smooth **OTP Auth Flows** (email/phone based)
-- 🔄 Learning **real-time chat & feeds** with Agora and GetStream
+- 🧠 Flutter + GetX + Clean Architecture + Feature-Folder Design
+- 🔐 Custom Auth Flows (OTP via Phone/Email, Social Logins)
+- 🔥 Backend with Firebase Auth, Firestore, Supabase, RLS, Storage
+- 🎥 MUX, Cloudinary for seamless media/video integration
+- 🔄 Real-time apps with **Socket.IO**, **Agora**, and **GetStream**
+- ⚙️ Node.js APIs with MongoDB, Mongoose, Multer, Aggregation Pipelines
+- 🌐 Full-stack systems that are fast, reactive, and built to scale
 
 ---
 
-### 🧠 Currently Learning:
+### 🧠 Currently Learning / Leveling Up:
 
-- 🧩 Node.js + Express + MongoDB Aggregation
-- 🎥 Agora for Real-Time Features
-- 🔥 Backend as a Service: Supabase, Firebase, and Cloudinary
-- 🧪 AI + PyTorch (soon 👀)
+- 📦 Supabase Advanced Auth + RLS
+- 🧪 MongoDB Aggregation + Performance Tricks
+- 📤 Media Handling: Cloudinary, Multer, Firebase Storage
+- 📱 Chat, Calls & Feeds using Agora, Stream, and Socket.IO
+
+---
+
+### 🛠️ Tech Stack:
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 ---
 
@@ -51,17 +62,4 @@ From **FlutterFlow** to **Supabase** to **real-time apps with Agora**, I’m bui
 
 ---
 
-### 🛠 Languages & Tools:
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
-
----
-
 ![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnainadam7&show_icons=true&theme=radical)
-
