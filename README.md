@@ -14,7 +14,7 @@
 <br/>
 
 Hi, I'm **Hasnain**, a passionate **Flutter Developer** who loves building real-world apps with clean architecture, **GetX**, and **feature-based folder structures**.  
-From UI to backend, I bring life to apps using tools like **Flutter**, **FlutterFlow**, **Firebase**, **Supabase**, **Node.js**, and even **real-time magic with Agora and Sockets** 🔥
+From UI to backend, I bring life to apps using tools like **Flutter**, **FlutterFlow**, **Firebase**, **Supabase**, **Node.js**, and even **real-time magic with StreamIO and Sockets** 🔥
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" />
 
@@ -26,7 +26,7 @@ From UI to backend, I bring life to apps using tools like **Flutter**, **Flutter
 - 🔐 Custom Auth Flows (OTP via Phone/Email, Social Logins)
 - 🔥 Backend with Firebase Auth, Firestore, Supabase, RLS, Storage
 - 🎥 MUX, Cloudinary for seamless media/video integration
-- 🔄 Real-time apps with **Socket.IO**, **Agora**, and **GetStream**
+- 🔄 Real-time apps with **Socket.IO** and **GetStream**
 - ⚙️ Node.js APIs with MongoDB, Mongoose, Multer, Aggregation Pipelines
 - 🌐 Full-stack systems that are fast, reactive, and built to scale
 
@@ -34,10 +34,10 @@ From UI to backend, I bring life to apps using tools like **Flutter**, **Flutter
 
 ### 🧠 Currently Learning / Leveling Up:
 
-- 📦 Supabase Advanced Auth + RLS
-- 🧪 MongoDB Aggregation + Performance Tricks
+- 📦 Supabase/Firebase Advanced Auth + Row Level Security and Firebase Rules
+- 🧪 MongoDB Aggregation + PostgreSQL + Performance Tricks
 - 📤 Media Handling: Cloudinary, Multer, Firebase Storage
-- 📱 Chat, Calls & Feeds using Agora, Stream, and Socket.IO
+- 📱 Chat, Calls & Feeds using Stream and Socket.IO
 
 ---
 
