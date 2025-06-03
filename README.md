@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Hasnain Adam</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack;Mobile+App+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=835&lines=Full+Stack+Mobile+App+Developer;" />
 </p>
 
 ---
