@@ -7,11 +7,11 @@
 
 ## 🧠 About Me
 
-- 🧑‍💻 Junior Flutter Developer at **Algoace**
+- 🧑‍💻 Junior Mobile App Developer at **Algoace**
 - 🔧 Building apps with **Flutter, React Native, Firebase, Supabase, and Node.js**
 - 🔥 Interested in real-time features, payments, and scalable backends
 - 🚀 Learning **Mongoose, Express.js**, and diving into **Socket.IO & Agora**
-- 🧠 Member of **Rahimia Institute** – critically building for a better society
+- 🧠 Member of **Rahimia Institute of Quranic Science** – critically building for a better society
 
 ---
 
