@@ -15,17 +15,6 @@
 
 ---
 
-## 💼 Projects Highlights
-
-| Project | Stack | Description |
-|--------|--------|-------------|
-| **QuickQuickPay** | Flutter + Supabase + Stripe | Wallet app with company-wide main Stripe account and individual user withdrawals |
-| **Monarch** | Flutter + Firebase | Doctor calendar app with real-time chat and appointment tracking |
-| **Requestly** | FlutterFlow | Tattoo booking app for clients, artists, and shop owners |
-| **Gift Suggestion App** | Flutter + Amazon APIs | Helps users discover & save gift ideas for loved ones |
-
----
-
 ## 🔧 Tech Stack & Tools
 Languages: Dart, JavaScript (Node.js)
 Mobile: Flutter, FlutterFlow
