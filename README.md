@@ -27,25 +27,38 @@
 ---
 
 ## 🔧 Tech Stack & Tools
+Languages: Dart, JavaScript (Node.js)
+Mobile: Flutter, FlutterFlow
+Database: Firebase Firestore, Supabase DB, MongoDB
+Auth: Firebase Auth, Supabase Auth
+Storage: Supabase Storage, Firebase Storage, Cloudinary
+Real-time: Socket.IO, GetStream.io, Agora
+Payments: Stripe
+Other: Git, GitHub, VS Code, Figma
 
-```dart
-Languages:  Dart, JavaScript (Node.js)
-Mobile:     Flutter, FlutterFlow
-Database:   Firebase Firestore, Supabase DB, MongoDB
-Auth:       Firebase Auth, Supabase Auth
-Storage:    Supabase Storage, Firebase Storage, Cloudinary
-Real-time:  Socket.IO, GetStream.io, Agora
-Payments:   Stripe
-Other:      Git, GitHub, VS Code, Figma
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hasnainadam&show_icons=true&theme=radical" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainadam&theme=radical" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainadam&layout=compact&theme=radical" /> </p>
+## 📈 GitHub Stats
 
-📫 Contact Me
-Email: hasnainadam7@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainadam&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainadam&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainadam&layout=compact&theme=radical" />
+</p>
 
-WhatsApp: +92 314 3052418
+---
 
-Location: Karachi, Pakistan 🇵🇰
+## 📫 Contact Me
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p> ```
+- 📧 **Email:** hasnainadam7@gmail.com  
+- 📱 **WhatsApp:** +92 314 3052418  
+- 📍 **Location:** Karachi, Pakistan 🇵🇰
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
+
