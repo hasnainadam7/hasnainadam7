@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Hasnain Adam</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Backend+Learner+(Node.js%2FMongoDB);Supabase+%7C+Firebase+%7C+Stripe+Integration;Always+building+something+cool+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack;Flutter+Developer;Backend+(Node.js%2FMongoDB);Supabase+%7C+Firebase;%7C+Stripe+Integration;Always+building;something+cool+🚀" />
 </p>
 
 ---
@@ -37,3 +37,15 @@ Storage:    Supabase Storage, Firebase Storage, Cloudinary
 Real-time:  Socket.IO, GetStream.io, Agora
 Payments:   Stripe
 Other:      Git, GitHub, VS Code, Figma
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hasnainadam&show_icons=true&theme=radical" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainadam&theme=radical" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainadam&layout=compact&theme=radical" /> </p>
+
+📫 Contact Me
+Email: hasnainadam7@gmail.com
+
+WhatsApp: +92 314 3052418
+
+Location: Karachi, Pakistan 🇵🇰
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p> ```
