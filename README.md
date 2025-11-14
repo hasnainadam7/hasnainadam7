@@ -7,11 +7,10 @@
 </p>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainadam7)
+
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainadam7@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923143052418)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainadam.dev)
+
   
 </div>
 
@@ -41,7 +40,6 @@ const hasnain = {
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-3C4858?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🔥 Backend & Databases
@@ -105,7 +103,6 @@ const hasnain = {
 + Building scalable mobile applications with real-time features
 + Mastering backend development with Node.js and Express
 + Exploring advanced socket programming and WebRTC
-+ Contributing to open-source Flutter packages
 + Creating impactful solutions for community development
 ```
 
