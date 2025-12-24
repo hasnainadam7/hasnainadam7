@@ -77,8 +77,8 @@ const hasnain = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasnainadam7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
+  <img height="180em" src='https://github-readme-streak-stats.vercel.app/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF'/>
 
 ## 🏆 Achievement Highlights
 
