@@ -78,7 +78,7 @@ const hasnain = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="[https://streak-stats.demolab.com/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF](https://github-readme-streak-stats.herokuapp.com/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Achievement Highlights
