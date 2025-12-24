@@ -72,66 +72,92 @@ const hasnain = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainadam7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainadam7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hasnainadam7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasnainadam7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasnainadam7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasnainadam7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</p>
+<div align="center">
+
+| 🎯 Metric | 📈 Value |
+|-----------|----------|
+| 💻 Total Contributions | Growing Daily |
+| 🔥 Current Streak | Building Momentum |
+| ⭐ Projects | Mobile & Web Apps |
+| 🚀 Focus | Flutter & Node.js |
+
+</div>
 
 ## 🎯 Current Focus & Goals
 
 ### 🚀 Working On
 
 ```yaml
-- Building scalable mobile apps with monetization
-- Mastering backend with Node.js & Express
-- Real-time communication features
-- Social authentication integration
-- In-app purchases & subscription management
-- Community-driven projects
+Mobile Development:
+  - Building scalable Flutter applications
+  - Implementing real-time communication features
+  - Social authentication (Google, Facebook, Apple)
+  
+Backend & APIs:
+  - Mastering Node.js & Express.js
+  - MongoDB & Mongoose optimization
+  - RESTful API design
+  
+Monetization:
+  - In-app purchases with RevenueCat
+  - Stripe payment integration
+  - Subscription management
 ```
 
-### 🎓 Learning
+### 🎓 Currently Learning
 
 ```yaml
-- Advanced Socket.IO patterns
-- MongoDB & Mongoose optimization
-- WebRTC implementation
-- RevenueCat subscription handling
-- OAuth 2.0 & Social Login flows
-- Microservices architecture
+Advanced Topics:
+  - Socket.IO for real-time apps
+  - WebRTC implementation
+  - OAuth 2.0 & Social Login flows
+  - Microservices architecture
+  - Advanced state management
 ```
 
 ## 💡 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎯 **Real-time Chat App** | Scalable messaging platform with end-to-end features | Flutter, Socket.IO, Node.js |
-| 📱 **E-Commerce Mobile App** | Full-featured shopping experience with payments | React Native, Firebase, Stripe |
-| 🎥 **Video Calling App** | HD video/audio communication platform | Flutter, Agora, WebRTC |
-| 🌐 **Social Media Platform** | Community-focused social network with auth | Flutter, Supabase, GetStream, Google/FB Auth |
-| 💎 **Premium Subscription App** | Monetized app with in-app purchases | Flutter, RevenueCat, Apple/Google Pay |
+<div align="center">
 
-## 📈 Coding Activity
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 💬 **Real-time Chat** | End-to-end messaging platform | Flutter • Socket.IO • Node.js |
+| 🛒 **E-Commerce App** | Full shopping experience | React Native • Firebase • Stripe |
+| 📞 **Video Call App** | HD communication platform | Flutter • Agora • WebRTC |
+| 🌐 **Social Platform** | Community network | Flutter • Supabase • Social Auth |
+| 💎 **Premium App** | Subscription-based app | Flutter • RevenueCat • Payments |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnainadam7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</p>
+</div>
 
-## 🎨 Design Philosophy
+## 📈 Contribution Graph
 
-> *"Great design is not just what it looks like and feels like. Great design is how it works."*
->
-> — Steve Jobs
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnainadam7&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+## 🎨 Development Philosophy
+
+<div align="center">
+
+> *"Great design is not just what it looks like and feels like. Great design is how it works."*  
+> **— Steve Jobs**
+
+</div>
+
+### Core Principles
 
 ```diff
 + Clean, maintainable code is my priority
@@ -139,33 +165,39 @@ const hasnain = {
 + Performance optimization is non-negotiable
 + Security & privacy are fundamental
 + Continuous learning keeps me ahead
++ Community contribution matters
 ```
 
-## 📫 Let's Build Something Amazing Together!
+## 🌐 Connect With Me
 
-<table>
-  <tr>
-    <td align="center"><strong>Email</strong></td>
-    <td>hasnainadam7@gmail.com</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>WhatsApp</strong></td>
-    <td>+92 314 3052418</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Location</strong></td>
-    <td>Karachi, Pakistan 🇵🇰</td>
-  </tr>
-</table>
+<div align="center">
 
-### 💭 Developer Wisdom
+| Platform | Contact |
+|----------|---------|
+| 📧 Email | hasnainadam7@gmail.com |
+| 💬 WhatsApp | +92 314 3052418 |
+| 📍 Location | Karachi, Pakistan 🇵🇰 |
+| 💼 Company | Algoace |
 
-"Code is like humor. When you have to explain it, it's bad." – Cory House
+</div>
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."*  
+**— Cory House**
+
+</div>
 
 ---
 
-**⭐️ From [hasnainadam7](https://github.com/hasnainadam7) with ❤️**
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20"/>
-</p>
+### 🚀 Let's Build Something Amazing Together!
+
+**Made with ❤️ by [Hasnain Adam](https://github.com/hasnainadam7)**
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
