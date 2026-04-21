@@ -1,5 +1,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainadam7@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923143052418) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#) ![Profile Views](https://komarev.com/ghpvc/?username=hasnainadam7&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS) 
-
+ 
 ## 👨‍💻 About Me
 
 ```javascript
